@@ -64,3 +64,4 @@ moves_file(reverse_categories)
 
 end = time()
 print(f"Время выполнения: {end - start} сек.")
+input()
